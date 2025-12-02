@@ -19,4 +19,5 @@ CREATE TABLE audit_logs (
     timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     details TEXT
 );
+
 -- More tables for attendance, leave, payroll, documents...
